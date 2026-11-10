@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "WindowsProject1\\x64\\Debug\\Resource.obj",
+            "outputs": [
+                "WindowsProject1\\x64\\Debug\\Resource.h.obj.dt.module.json",
+                "WindowsProject1\\x64\\Debug\\Resource.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

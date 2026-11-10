@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "五子棋\\x64\\Debug\\Resource.obj",
+            "outputs": [
+                "五子棋\\x64\\Debug\\Resource.h.obj.dt.module.json",
+                "五子棋\\x64\\Debug\\Resource.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -29,7 +29,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="WindowsProject1.cpp">
+    <ClCompile Include="五子棋.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
